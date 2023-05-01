@@ -1,5 +1,6 @@
 # Lab4-6
-P1. Numere
+Numere
+
 Creați un program care lucrează cu numere complexe (a + bi). Programul
 gestionează o listă de numere complexe și permite efectuarea repetată a
 următoarelor acțiuni:

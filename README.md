@@ -1,4 +1,4 @@
-# Lab4-6
+# Operatii cu numere complexe in Python
 Numere
 
 Creați un program care lucrează cu numere complexe (a + bi). Programul
